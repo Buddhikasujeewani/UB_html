@@ -1,0 +1,92 @@
+.twitch-code-container .container {
+  width: 70%; }
+
+.event-link-container {
+  background-color: #401411;
+  color: #fff;
+  padding: 26px;
+  font-size: 18px; }
+
+.main-chat-container .container {
+  max-width: 1230px; }
+
+.main-chat-container .img-container img {
+  width: 100%; }
+
+.link-container {
+  background-color: #401411;
+  color: #fff;
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase; }
+
+#wf-chat-messages a {
+  color: #703737; }
+
+#wf-chat-frame {
+  background: #E6EAEA;
+  font-family: "proxima-nova", "Source Sans Pro", sans-serif;
+  font-size: 1em;
+  letter-spacing: 0.1px;
+  color: #32465a;
+  text-rendering: optimizeLegibility;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+  -webkit-font-smoothing: antialiased;
+  height: 600px;
+  margin-bottom: 30px; }
+
+#wf-chat-frame #sidepanel {
+  background: #5a281e;
+  color: #f5f5f5;
+  overflow: hidden;
+  position: relative;
+  padding: 0px 15px;
+  height: 100%; }
+
+#wf-chat-frame #wf-chat-messages {
+  overflow: hidden;
+  position: relative;
+  padding: 0px 15px;
+  height: 600px; }
+
+#wf-chat-frame #wf-chat-messages #wf-messages-container {
+  height: 540px;
+  width: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden; }
+
+#wf-chat-frame #wf-chat-messages .message-input {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background: #5a281e;
+  margin-left: -15px;
+  margin-right: -15px;
+  padding: 10px 15px; }
+
+#wf-chat-frame #wf-chat-messages .message-input .wrap input {
+  font-family: "proxima-nova", "Source Sans Pro", sans-serif;
+  float: left;
+  border: none;
+  width: calc(100% - 90px);
+  padding: 11px 32px 10px 8px;
+  font-size: 0.8em;
+  color: #32465a; }
+
+#wf-chat-frame #wf-chat-messages .message-input .wrap button {
+  float: right;
+  border: none;
+  width: 60px;
+  padding: 6px;
+  cursor: pointer;
+  background: #e30713;
+  color: #f5f5f5;
+  border-radius: 5px; }
+
+footer {
+  background-color: #500800; }
+
+/*# sourceMappingURL=style.css.map */
