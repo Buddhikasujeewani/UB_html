@@ -89,4 +89,55 @@
 footer {
   background-color: #500800; }
 
+.copyright {
+  color: #ab9a9a;
+  font-family: Nunito Sans;
+  font-size: 16px;
+  line-height: 1.75; }
+
+ul#menu-footer-1, ul#menu-footer-2 {
+  list-style-type: none;
+  padding: 36px;
+  text-align: left; }
+
+ul#menu-footer-1 a, ul#menu-footer-2 a {
+  color: #fff; }
+
+ul#menu-footer-1 li, ul#menu-footer-2 li {
+  padding-top: 20px;
+  border-bottom: 1px solid #640d00;
+  padding-bottom: 20px; }
+
+.footer__bottom {
+  background-color: #401411;
+  padding: 32px 0;
+  color: #fff; }
+
+a.navbar-brand img {
+  max-width: 48px; }
+
+.social-container span {
+  color: #fff;
+  padding-left: 6px;
+  padding-right: 7px; }
+
+header .masthead {
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 0 16px;
+  display: block;
+  position: relative;
+  text-transform: uppercase;
+  line-height: 50px;
+  letter-spacing: .06em;
+  text-transform: uppercase; }
+
+.embed-responsive-16by9:before {
+  padding-top: 32.75% !important; }
+
+.nav-below-container {
+  background-color: #fff; }
+
 /*# sourceMappingURL=style.css.map */
