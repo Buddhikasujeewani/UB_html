@@ -36,9 +36,17 @@
     </div>    
 </nav>
 <div class="nav-below-container">
-University Business
-|
-The Business of Higher Education
-Digi mag
-
-    </div>
+    <div class="strapline-wrapper">
+		<div class="container-strapline">
+		    <div class="strapline-text-wrapper">
+                <div class="strapline-long-title">University Business</div>
+                <div class="strapline-divider"> | </div>
+                <div class="strapline-text">The Business of Higher Education</div>
+		    </div>
+		    <div class="strapline-subscribe">
+                <a href="https://universitybusiness.co.uk/dashboard2/digi-mag/">Digi mag</a>
+                <a href="https://universitybusiness.co.uk/dashboard2/university-business-registration/">Subscribe</a>		   
+		     </div>
+		 </div>
+	</div>
+</div>

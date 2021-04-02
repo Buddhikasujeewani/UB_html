@@ -135,10 +135,76 @@ header .masthead {
   text-transform: uppercase; }
 header .navbar {
   padding: 0; }
+header .navbar-nav > li > a {
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 0 16px;
+  display: block;
+  position: relative;
+  text-transform: uppercase;
+  line-height: 50px;
+  letter-spacing: .06em; }
 header .nav-link {
   display: block;
   padding: .5rem 1rem;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  font-weight: 500; }
+header .strapline-wrapper {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #49545E;
+  /* border-color: #617095; */
+  border-color: #401411; }
+header .container-strapline {
+  max-width: 1140px;
+  width: 1140px;
+  /* padding: 6px 20px; */
+  padding: 6px 15px 4px 20px;
+  padding-top: 0;
+  padding-bottom: 0;
+  display: flex;
+  font-size: 13px;
+  font-family: 'Lato',sans-serif;
+  justify-content: space-between;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Nunito Sans',sans-serif;
+  align-items: center; }
+header .strapline-text-wrapper {
+  display: flex;
+  font-size: 14px; }
+header .strapline-divider {
+  margin: 0 6px; }
+header .strapline-subscribe {
+  display: flex; }
+header .strapline-subscribe a {
+  /* background-color: black; */
+  /* background-color: #002B4D; */
+  /* background-color: #10302f; */
+  background-color: #401411;
+  padding: 3px 10px; }
+header .strapline-subscribe a {
+  /* color: #49545E; */
+  color: #efefef;
+  font-size: 14px; }
+header .bg-dark {
+  background-color: #401411 !important; }
+header .navbar-dark .navbar-nav .nav-link {
+  color: white;
+  font-size: 12px; }
+header .navbar-dark .navbar-nav .nav-link:focus, header .navbar-dark .navbar-nav .nav-link:hover {
+  color: #e30713; }
+header .strapline-subscribe a:hover {
+  /* background-color: rgba(0, 43, 77,0.9); */
+  /* background-color: rgba(16, 48, 47,0.9); */
+  background-color: #640d00; }
+header li.nav-item {
+  padding-left: 14px;
+  padding-right: 14px; }
+header .navbar .container {
+  max-width: 1333px; }
 
 .embed-responsive-16by9:before {
   padding-top: 38.75% !important; }

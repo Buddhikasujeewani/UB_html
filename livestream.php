@@ -118,8 +118,7 @@
                         JOIN IN THE CONVERSATION       
                     </div>
                     <a href="https://twitter.com/ub_uk?lang=en" target="_blank"><i class="fab fa-twitter-square"></i> @ub_uk using #edquarterlive</a>
-                </div>
-               
+                </div>               
             </div>           
             </div>
         </div>
