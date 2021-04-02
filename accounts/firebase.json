@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wildfirecommscouk-ded7c-default-rtdb",
+  "private_key_id": "a5fe32405f12a3cd3ac28b46feb8fae35c13f2be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7ZQyORrd3Wn2I\n1JUH6uPFetqKLMSxRhUnxB2Mb+Qe3CO5NROCzLvWjBceUhMrTi1cXUx+7sefpY7j\nYr4vC7DF6+Kr44kvHSlMq9+hTF2Qcm7GYyr6QOrpbwafXnvGUx9xLdMEFKV3yEKg\nyMRfr7jsBIB2SqIZI3lAyeJ7JJA4TWsDUD9lm4Sg//KU7eBnpk2QRchEBm/LGokm\nRNTNreKvjR0IVveQq/vusabVvTB7nPMoAgjVWelMz+BeKgW6xe89SKNGNwxsyDyj\n8c6Jxlk+m3K50ZJ3V2z6ME4l3s8OsIl9znHsF0LmlqaXXG6bsDDQXxKIQwIEKWq4\n6OODJEM/AgMBAAECggEAHgJVm2cptDxShBn+77Cm3xYIbz4yFW1yr9aRIM8+Sc7Z\nDay5PiYJIpd2kE12cmXnj7YFLQKSBzfdBP7oE+KcYWWf/ATJEDlsRrHzcwImrZ4V\nrUFuPXst40n7VoQr8BuZmmdLNokT4nW4bcUY5XXfeDRUWh0jjkEHBuANm8jEK6+7\n+a56WZZCh78q/18BJxqWu+l0RUEoBkKg013TNnV8HUOOF1fK2jyaxXscqp88CcBC\nKEBOetwYN+ZRhx7xSMQ+XsQdgNHKXlRYmFs8YXYdInIYonbLICpZu/culZ0AAlyO\n7+DnBysONuICOW7csvdQbozYvBiIa+ZL1Iq+/8EVoQKBgQDg1hT6UeJyBDRbKZW4\nBZD9NFtySJKUPkAOkGIVa5oQraGeCjaNq0kxCTo5JKbpqD5Sd1ki4Q+Rt+0gMzU9\nI94HPgVp6M3em+8kxE8gLddYI+vzAUF1vWE8zxuHz5LkOJfQbpVCLA87Wy6TwrXk\nsjdazg/kSc/NP7THWTkEqNQnjwKBgQDVXmuXOsjzDF/OlQf9sYlBd6UncsVF8L/d\nTWZIVygslU7QXmgr/Ktu9WwO1eXXYFn4kGbGzQdbtD3Sc5X1ssxQndnqMC4L+vsf\nawsJ9eltozSCdrFLzhkrZ24vOunxDC95T5+pd6HW9MCqLP+RgJVqE0FeFETMgMXr\nueBsRMjRUQKBgCwpwPseZHVy3/ncJD1+Uml6BFBhcvFNfPWfZLTCawPFp05MwUR4\nlardHiOlUGfrFTrLmKWiQZWk5B4EEPwOdIlFpHiWMwH77TByovw2JOt6OtmDsKD4\n7wWrxMObgUX029UkM4tI7kEBexepEmN2oiri+PoliXzOe6sAmpOQugN/AoGATj9c\nMY+rVga5s+bPkWfkMBASjw717ZpGon/Z/LmJ0B/JUXztswPsUrrKL/6dVYjONeuu\n5UUXZ7gH2//rhLlXWFErM0kL+fTG11TILZTzT/PEM/wXNPeWH2bE76kpVe7kEhbz\nNJDc1xnW9hGef9up78az+C5ytJSdAL+f39Sx2KECgYEA2eEScm2RRvyxZSI/toG5\nfIhY1iQ1G0gimiddnlBv4H4WhmBaiASOC+P/VwgoIjIXHMxsHry4/l++SrPUPub0\nfwwSF7a32bVUCpdlced06DEo7rI/2OFx9Ib/3z8Tqx9AwrqaX2fxDqIrK6LjLoc9\nDIS5eHOK7idLtj/N+80q/+k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2yiv7@wildfirecommscouk-ded7c.iam.gserviceaccount.com",
+  "client_id": "111912955527602196668",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2yiv7%40wildfirecommscouk-ded7c.iam.gserviceaccount.com"
+}

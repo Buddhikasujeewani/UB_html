@@ -8,7 +8,7 @@
   font-size: 18px; }
 
 .main-chat-container .container {
-  max-width: 1230px; }
+  max-width: 1333px; }
 
 .main-chat-container .img-container img {
   width: 100%; }
@@ -114,7 +114,7 @@ ul#menu-footer-1 li, ul#menu-footer-2 li {
   color: #fff; }
 
 a.navbar-brand img {
-  max-width: 48px; }
+  max-width: 64px; }
 
 .social-container span {
   color: #fff;
@@ -133,11 +133,40 @@ header .masthead {
   line-height: 50px;
   letter-spacing: .06em;
   text-transform: uppercase; }
+header .navbar {
+  padding: 0; }
+header .nav-link {
+  display: block;
+  padding: .5rem 1rem;
+  text-transform: uppercase; }
 
 .embed-responsive-16by9:before {
-  padding-top: 32.75% !important; }
+  padding-top: 38.75% !important; }
 
 .nav-below-container {
   background-color: #fff; }
+
+#carouselExampleControls .carousal-1-live {
+  background-image: url(../img/Akero_Banner_1200x675.png);
+  background-size: cover;
+  background-position: center;
+  height: 317px; }
+#carouselExampleControls .carousal-2-live {
+  background-image: url(../img/10-Booth-Image-B.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 317px; }
+
+.main-chat-container .tw-account-container {
+  text-align: left; }
+.main-chat-container .tw-account-container .twitter-conversation {
+  padding-top: 15px;
+  border-top: black solid 1px;
+  font-size: 22px;
+  color: #e30713; }
+.main-chat-container .tw-account-container a {
+  color: #595353;
+  font-size: 21px;
+  text-align: left; }
 
 /*# sourceMappingURL=style.css.map */

@@ -94,10 +94,37 @@
                 <div class="link-container">
                         Visit our exhibitor booths <i class="fas fa-caret-right"></i>
                 </div>
+                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="carousal-1-live"></div>
+                        
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousal-2-live"></div>
+                        </div>                        
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+                <div class="tw-account-container">
+                    <div class="twitter-conversation">        
+                        JOIN IN THE CONVERSATION       
+                    </div>
+                    <a href="https://twitter.com/ub_uk?lang=en" target="_blank"><i class="fab fa-twitter-square"></i> @ub_uk using #edquarterlive</a>
+                </div>
+               
             </div>           
             </div>
         </div>
-    </section>       
+    </section>      
+     
     <?php require_once('footer.php'); ?> 
 </body>
 </html>
