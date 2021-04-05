@@ -1,3 +1,13 @@
+<div class=""style="background: #3b1713;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 0px;
+   text-align:left;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;margin-bottom:20px;">
+  Live Poll
+</div>
 <h3 style="font-family:Nunito Sans;">Do you think schools should remain open during the upcoming lockdown?</h3>
 <div id="wf-poll-form" <?php if (!empty($answer)) {echo 'style="display:none;"';}?>>
   <ul>

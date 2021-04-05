@@ -97,7 +97,7 @@
             </div>
         </div>
     </section>      
-     
+    <?php require_once('booths.php'); ?>  
     <?php require_once('footer.php'); ?> 
 </body>
 </html>
