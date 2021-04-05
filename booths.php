@@ -15,7 +15,7 @@
                        <h3>Akero</h3>
                    </div>
                    <div class="booth_btn_container">
-                       <a href="" target="_blank">Visit Booth</a>
+                       <a href="booth_akero.php" target="_blank">Visit Booth</a>
                    </div>
                </div>
             </div>
@@ -25,10 +25,10 @@
                        <img src="img/clevertouch.jpg"/>
                    </div>
                    <div class="booth_text_container">
-                       <h3>Akero</h3>
+                       <h3>Clevertouch</h3>
                    </div>
                    <div class="booth_btn_container">
-                       <a href="" target="_blank">Visit Booth</a>
+                       <a href="booth_clevertouch.php" target="_blank">Visit Booth</a>
                    </div>
                </div>
             </div>
@@ -38,7 +38,7 @@
                        <img src="img/echo360-230x164.jpg"/>
                    </div>
                    <div class="booth_text_container">
-                       <h3>Akero</h3>
+                       <h3>Echo 360</h3>
                    </div>
                    <div class="booth_btn_container">
                        <a href="" target="_blank">Visit Booth</a>
@@ -51,7 +51,7 @@
                        <img src="img/logo-Examus-768x480.jpg"/>
                    </div>
                    <div class="booth_text_container">
-                       <h3>Akero</h3>
+                       <h3>Examus</h3>
                    </div>
                    <div class="booth_btn_container">
                        <a href="" target="_blank">Visit Booth</a>
@@ -64,7 +64,7 @@
                         <img src="img/ilockers-featured.jpg"/>
                    </div>
                    <div class="booth_text_container">
-                       <h3>Akero</h3>
+                       <h3>iLockerz</h3>
                    </div>
                    <div class="booth_btn_container">
                        <a href="" target="_blank">Visit Booth</a>
@@ -77,7 +77,7 @@
                        <img src="img/Lapsafe-Logo.jpg"/>
                    </div>
                    <div class="booth_text_container">
-                       <h3>Akero</h3>
+                       <h3>Lapsafe</h3>
                    </div>
                    <div class="booth_btn_container">
                        <a href="" target="_blank">Visit Booth</a>
@@ -90,7 +90,7 @@
                        <img src="img/oe-electrics-1.jpg"/>
                    </div>
                    <div class="booth_text_container">
-                       <h3>Akero</h3>
+                       <h3>OE Electrics</h3>
                    </div>
                    <div class="booth_btn_container">
                        <a href="" target="_blank">Visit Booth</a>
@@ -103,7 +103,7 @@
                        <img src="img/Philips_PPDS_label_cmyk-1-768x480.png"/>
                    </div>
                    <div class="booth_text_container">
-                       <h3>Akero</h3>
+                       <h3>PPDS</h3>
                    </div>
                    <div class="booth_btn_container">
                        <a href="" target="_blank">Visit Booth</a>
@@ -116,7 +116,7 @@
                        <img src="img/TEClogo-230x164.png"/>
                    </div>
                    <div class="booth_text_container">
-                       <h3>Akero</h3>
+                       <h3>TEC</h3>
                    </div>
                    <div class="booth_btn_container">
                        <a href="" target="_blank">Visit Booth</a>
@@ -129,7 +129,7 @@
                        <img src="img/topdesk.jpg"/>
                    </div>
                    <div class="booth_text_container">
-                       <h3>Akero</h3>
+                       <h3>Topdesk</h3>
                    </div>
                    <div class="booth_btn_container">
                        <a href="" target="_blank">Visit Booth</a>

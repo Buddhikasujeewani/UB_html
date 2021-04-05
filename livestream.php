@@ -10,7 +10,7 @@
     <section class="twitch-code-container" id="twitch-code-container01">
         <div class="container-fluid">      
             <div class="row">
-                <div class="embed-responsive embed-responsive-16by9"><iframe  class="embed-responsive-item"  src="https://player.twitch.tv/?channel=edquarterlive&parent=universitybusiness.co.uk" frameborder="0" allowfullscreen="true" scrolling="no" ></iframe></div>
+                <div class="embed-responsive embed-responsive-16by9"><iframe  class="embed-responsive-item"  src="https://player.twitch.tv/?channel=edquarterlive&parent=127.0.0.1" frameborder="0" allowfullscreen="true" scrolling="no" ></iframe></div>
             </div>
         </div>
     </section>
